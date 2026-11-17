@@ -95,11 +95,18 @@ Applied **AI/ML Engineer** with **3.5 years** of combined engineering and machin
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Engineering & Pipeline Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BorasteSamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Samir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorasteSamir&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+| Dimension | Engineering Focus & Verified Impact |
+|---|---|
+| **Primary Focus** | Applied Artificial Intelligence, Production Machine Learning & MLOps Pipelines |
+| **Core Architectures** | Multimodal RAG (5-Model Async Ensemble), Gradient Boosting (LightGBM / XGBoost), YOLOv8 (Computer Vision) |
+| **API & Serving** | High-Throughput Sub-10ms REST Services via FastAPI, Asynchronous Ingestion, Interactive Streamlit UIs |
+| **Explainability & Drift** | SHAP TreeExplainer, PSI Population Stability Monitoring (>0.20 alert), SMOTE (8.6:1 Class Imbalance) |
+| **Decision Science** | Thompson Sampling Multi-Armed Bandit (MAB) for Dynamic Approval Cutoff Optimization |
+
 </div>
 
 ---
